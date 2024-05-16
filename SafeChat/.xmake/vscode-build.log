@@ -1,0 +1,3 @@
+[ 25%]: cache compiling.release src/Server/SafeChatServer.cpp
+[ 91%]: linking.release SafeChat
+[100%]: build ok, spent 16.444s

@@ -1,0 +1,28 @@
+{
+    zig_arch_x86_64_plat_linux = {
+        zig = "/snap/bin/zig",
+        plat = "linux",
+        arch = "x86_64",
+        __global = true
+    },
+    tool_target_SafeChat_linux_x86_64_ld = {
+        toolchain_info = {
+            plat = "linux",
+            name = "gcc",
+            cachekey = "gcc_arch_x86_64_plat_linux",
+            arch = "x86_64"
+        },
+        program = "/usr/bin/g++",
+        toolname = "gxx"
+    },
+    tool_target_SafeChat_linux_x86_64_cxx = {
+        toolchain_info = {
+            plat = "linux",
+            name = "gcc",
+            cachekey = "gcc_arch_x86_64_plat_linux",
+            arch = "x86_64"
+        },
+        program = "/usr/bin/gcc",
+        toolname = "gcc"
+    }
+}

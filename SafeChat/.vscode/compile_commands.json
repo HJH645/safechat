@@ -1,0 +1,46 @@
+[
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Server/SafeChatServer.cpp.o", "src/Server/SafeChatServer.cpp"],
+  "file": "src/Server/SafeChatServer.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Config/Config.cpp.o", "src/Config/Config.cpp"],
+  "file": "src/Config/Config.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Token/Token.cpp.o", "src/Token/Token.cpp"],
+  "file": "src/Token/Token.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Entity/Messages.cpp.o", "src/Entity/Messages.cpp"],
+  "file": "src/Entity/Messages.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Utils/AESTools.cpp.o", "src/Utils/AESTools.cpp"],
+  "file": "src/Utils/AESTools.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Test/HttpTest.cpp.o", "src/Test/HttpTest.cpp"],
+  "file": "src/Test/HttpTest.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Test/AESTest.cpp.o", "src/Test/AESTest.cpp"],
+  "file": "src/Test/AESTest.cpp"
+},
+{
+  "directory": "/home/zhy/SafeChat",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-isystem", "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include", "-isystem", "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include", "-isystem", "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-o", "build/.objs/SafeChat/linux/x86_64/release/src/Test/HttpClientTest.cpp.o", "src/Test/HttpClientTest.cpp"],
+  "file": "src/Test/HttpClientTest.cpp"
+}]

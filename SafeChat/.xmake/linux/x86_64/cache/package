@@ -1,0 +1,52 @@
+{
+    ["cpp-httplib"] = {
+        version = "0.15.3",
+        __enabled = true,
+        __requirestr = "cpp-httplib",
+        envs = {
+            PATH = {
+                "/home/zhy/.xmake/packages/c/cmake/3.29.2/c093867d5a85460b8d0b71eca73aaba7/bin"
+            },
+            LD_LIBRARY_PATH = {
+                "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/lib",
+                "/home/zhy/.xmake/packages/c/cmake/3.29.2/c093867d5a85460b8d0b71eca73aaba7/lib"
+            }
+        },
+        installdir = "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6",
+        license = "MIT",
+        sysincludedirs = "/home/zhy/.xmake/packages/c/cpp-httplib/0.15.3/10d0838bab72482e8b727994616a9af6/include"
+    },
+    cryptopp = {
+        envs = {
+            PATH = {
+                "/home/zhy/.xmake/packages/c/cmake/3.29.2/c093867d5a85460b8d0b71eca73aaba7/bin"
+            },
+            LD_LIBRARY_PATH = {
+                "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/lib",
+                "/home/zhy/.xmake/packages/c/cmake/3.29.2/c093867d5a85460b8d0b71eca73aaba7/lib"
+            }
+        },
+        __enabled = true,
+        static = true,
+        links = "cryptopp",
+        libfiles = "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/lib/libcryptopp.a",
+        __requirestr = "cryptopp",
+        linkdirs = "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/lib",
+        installdir = "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a",
+        sysincludedirs = "/home/zhy/.xmake/packages/c/cryptopp/8.9.0/9c19a519fd66433683eed4f0bbb0df1a/include",
+        version = "8.9.0"
+    },
+    nlohmann_json = {
+        version = "v3.11.3",
+        __enabled = true,
+        __requirestr = "nlohmann_json",
+        envs = {
+            LD_LIBRARY_PATH = {
+                "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/lib"
+            }
+        },
+        installdir = "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde",
+        license = "MIT",
+        sysincludedirs = "/home/zhy/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include"
+    }
+}
